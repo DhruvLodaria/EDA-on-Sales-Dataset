@@ -1,0 +1,14 @@
+"Order ID",Amount,Profit,Quantity,Category,Sub-Category,PaymentMode,"Order Date",CustomerName,State,City,Year-Month
+B-26730,6139,451,10,Furniture,Tables,"Debit Card",2021-04-05,"Jacqueline Harris",Texas,Houston,2021-04
+B-26730,8636,3192,3,Furniture,Chairs,COD,2021-04-05,"Jacqueline Harris",Texas,Houston,2021-04
+B-26730,4439,1712,19,Furniture,Sofas,"Credit Card",2021-04-05,"Jacqueline Harris",Texas,Houston,2021-04
+B-26969,3348,568,5,"Office Supplies",Markers,"Credit Card",2021-04-30,"Peter Ward","New York",Rochester,2021-04
+B-26969,8856,2020,9,"Office Supplies",Pens,"Debit Card",2021-04-30,"Peter Ward","New York",Rochester,2021-04
+B-25746,8243,1346,15,"Office Supplies",Binders,"Debit Card",2021-04-04,"Manuel Walls",Texas,Houston,2021-04
+B-26268,4369,584,13,"Office Supplies",Pens,"Credit Card",2021-04-03,"Crystal Ross",Texas,Austin,2021-04
+B-25705,9335,557,11,Electronics,"Electronic Games",COD,2021-04-27,"Ann Mooney",California,"Los Angeles",2021-04
+B-25036,2737,1253,3,Electronics,Printers,EMI,2021-04-19,"Joseph Bates","New York","New York City",2021-04
+B-26445,9921,1451,15,Furniture,Sofas,EMI,2021-04-12,"Christopher Rogers",Illinois,Chicago,2021-04
+B-25106,9090,3098,16,Electronics,Phones,"Credit Card",2021-04-01,"Luke Saunders",Texas,Dallas,2021-04
+B-25106,851,356,11,Electronics,"Electronic Games","Credit Card",2021-04-01,"Luke Saunders",Texas,Dallas,2021-04
+B-26675,6499,2189,18,Electronics,"Electronic Games",EMI,2021-04-03,"James Perez",Florida,Orlando,2021-04
